@@ -74,5 +74,3 @@ This is an example of a simple script that demonstrates most of the above doing 
 ```bash
 {{% include "static/code/cli-example.sh" %}}
 ```
-
-
