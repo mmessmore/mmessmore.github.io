@@ -1,0 +1,13 @@
+baseURL: https://mmessmore.github.io
+languageCode: en-us
+title: Mike's Public Docs
+
+params:
+  author:
+    name: Mike Messmore
+  editURL: https://github.com/mmessmore/mmessmore.github.io/edit/main/exampleSite/content/${FilePath}
+  themeVariant: blue
+
+module:
+  imports:
+  - path: github.com/McShelby/hugo-theme-relearn
