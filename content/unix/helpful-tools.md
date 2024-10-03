@@ -12,4 +12,4 @@ This is included in the `expect` package.  It runs a command ensuring that the o
 
 The use case designed for is to ensure that output comes line-by-line vs buffered into blocks.
 
-The other super useful feature is when you want colorized output to be piped to another tool e. `less`.
+The other super useful feature is when you want colorized output to be piped to another tool e.g. `less`.
